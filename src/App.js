@@ -10,16 +10,14 @@ function App() {
          <br/>       
          Welcome to Palmtechmobile
          <br/> 
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+         </p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+         </a>
       </header>
     </div>
   );
