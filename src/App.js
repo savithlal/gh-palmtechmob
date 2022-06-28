@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Palmtechmobile
+         <br>       
+         Welcome to Palmtechmobile
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
