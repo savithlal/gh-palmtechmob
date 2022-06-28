@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          <br/>       
-         Welcome to Palmtechmobile
+         Welcome to Palmtechmobile-Kadelabs
          <br/> 
          </p>
         <a
