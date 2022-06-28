@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          <br/>       
-         Welcome to Palmtech reactnative deployment through firebase hosting
+         Welcome to Palmtech reactnative deployment through firebase hosting by kadelabs
          <br/> 
          </p>
         <a
